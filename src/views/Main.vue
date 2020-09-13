@@ -2,12 +2,12 @@
   <v-container grid-list-xl>
     <v-layout text-center row wrap>
       <v-flex xs12>
-        <v-img :src="require('../assets/prachi-prof-pic.jpeg')" contain height="200"></v-img>
+        <v-img :src="require('../assets/front.jpeg')" contain height="200"></v-img>
       </v-flex>
 
       <v-flex mb-4>
         <h1 class="display-2">Happy Birthday!</h1>
-        <h2 class="display-1">Prachi Kadam </h2>
+        <h2 class="display-1">Anoushka Vyas </h2>
       </v-flex>
 
       <v-flex xs12>
