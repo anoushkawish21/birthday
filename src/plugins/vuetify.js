@@ -5,7 +5,7 @@ import 'vuetify/dist/vuetify.min.css';
 Vue.use(Vuetify);
 
 export default new Vuetify({
-  iconfont: 'md',
+  iconfont: 'sacramento',
   theme: {
     primary: '#1976D2',
     secondary: '#424242',

@@ -25,4 +25,10 @@ export default new Router({
       component: Words,
     },
   ],
+  scrollBehavior() {
+    return {
+      x: 0,
+      y: 0,
+    };
+  },
 });
